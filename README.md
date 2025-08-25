@@ -1,4 +1,9 @@
 # 🔐 Cybersecurity: Suspicious Web Threat Interactions
+
+## Tableau Dashboard
+You can view the interactive Tableau dashboard here:  
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/pasupula.siva.geetha/viz/Cybersecurity_17559735318690/Dashboard1)
+
 # 📌 Project Overview
 
 This project focuses on analyzing suspicious web traffic interactions to identify potential security threats such as malicious requests, unauthorized access, and anomaly patterns. The analysis includes data preprocessing, exploratory data analysis (EDA), and visualization of attack trends. The insights can help cybersecurity teams in detecting, monitoring, and preventing web-based threats.
